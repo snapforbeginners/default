@@ -29,6 +29,6 @@ docker build -t default .
 then we can run it as before:
 
 ```
-docker run -it -p 8000:8000 snapforbeginners/default
+docker run -it -p 8000:8000 default
 ```
 
